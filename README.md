@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucasPredator
 - 👀 I’m interested in improving every day in this beautiful world that is programming / Estoy interesado en mejorando cada dia en este hermoso mundo que es la programacion.
-- 🌱 I’m currently learning Frot-end lso a bit of python / Actualmente estoy aprendiendo Frot-end también un poco de python
+- 🌱 I’m currently learning Frot-end. / Actualmente estoy aprendiendo Frot-end.
 - 💞️ I’m looking to collaborate on with you baby / Estoy buscando colaborar contigo bb
 - 📫 let redes = "IG = lucas.gonzalez_46"
 
