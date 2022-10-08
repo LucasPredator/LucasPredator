@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @LucasPredator
+- 👋 Hi, I’m Lucas Gonzalez. I'm from Argentina 🇦🇷
+
 - 👀 Estoy interesado en mejorar cada dia en este hermoso mundo que es la programación. Actualmente estoy estudiando el Fornt-end. Y también estoy interesado en estudiar Back-end. 
 I am interested in improving every day in this beautiful world that is programming. I am currently studying the Fornt-end. And I am also interested in studying Back-end.
 
