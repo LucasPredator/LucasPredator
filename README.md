@@ -8,7 +8,7 @@ I am interested in improving every day in this beautiful world that is programmi
      Language I speak:
      -English
      -Portuguese (Brazil)    
--
+     
 - 📫 let redes = "IG = lucas.gonzalez_46"
 
      if (Facebook: Lucas Gonzalez){
