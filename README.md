@@ -1,12 +1,18 @@
 - 👋 Hi, I’m @LucasPredator
-- 👀 I’m interested in improving every day in this beautiful world that is programming / Estoy interesado en mejorando cada dia en este hermoso mundo que es la programacion.
-- 🌱 I’m currently learning Frot-end. / Actualmente estoy aprendiendo Frot-end.
-- 💞️ I’m looking to collaborate on with you baby / Estoy buscando colaborar contigo bb
+- 👀 Estoy interesado en mejorar cada dia en este hermoso mundo que es la programación. Actualmente estoy estudiando el Fornt-end. Y también estoy interesado en estudiar Back-end. 
+I am interested in improving every day in this beautiful world that is programming. I am currently studying the Fornt-end. And I am also interested in studying Back-end.
+
+- 💞️ Idioma que hablo: 
+     -Ingles 
+     -Portugues (Brasil)
+     Language I speak:
+     -English
+     -Portuguese (Brazil)    
+-
 - 📫 let redes = "IG = lucas.gonzalez_46"
 
      if (Facebook: Lucas Gonzalez){
-        console.log (Twitter: Lucas)
-
+     
      }else{
        no se. Ya ni tengo otra red social.
      }
